@@ -25,8 +25,7 @@
 
 ### 📫 Como me encontrar:
 
-- 📧 E-mail: [Seu e-mail público]
-- 💼 LinkedIn: [Seu perfil do LinkedIn]
-- 🌎 Portfólio: [Seu site ou outra rede social profissional]
+- 📧 E-mail: tucobarcelos@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/tusaoo/
 
 💡 **Aberto a novas oportunidades e colaborações!** 🚀

@@ -2,7 +2,7 @@
 
 📚 **Estudante de Sistemas de Informação** - PUC Minas (4º período)  
 💻 **Entusiasta de tecnologia, desenvolvimento de software e soluções inovadoras**  
-🚀 **Buscando oportunidades para crescer e colaborar em projetos desafiadores**  
+🚀 **Buscando oportunidades para crescer e colaborar em projetos**  
 
 ---
 

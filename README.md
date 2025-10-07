@@ -29,3 +29,35 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/tusaoo/
 
 💡 **Aberto a novas oportunidades e colaborações!** 🚀
+classDiagram
+    class Cliente {
+        +executarAcao()
+    }
+
+    class Factory {
+        +criarProduto(tipo: String) : IProduto
+    }
+
+    class IProduto {
+        <<interface>>
+        +operacao()
+    }
+
+    class ProdutoConcretoA {
+        +operacao()
+    }
+
+    class ProdutoConcretoB {
+        +operacao()
+    }
+
+    ' Relações Principais
+    Cliente ..> Factory : usa
+    Factory ..> ProdutoConcretoA : cria
+    Factory ..> ProdutoConcretoB : cria
+    
+    ProdutoConcretoA --|> IProduto : implementa
+    ProdutoConcretoB --|> IProduto : implementa
+
+    ' Relação Implícita Importante
+    Cliente ..> IProduto : usa o produto através da interface

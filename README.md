@@ -8,7 +8,7 @@
 
 ### 🛠️ Tecnologias e Ferramentas:
 
-- 💻 **Linguagens**: C#, Python, JavaScript, Java  
+- 💻 **Linguagens**: C#, Python, JavaScript, Java
 - 🛢️ **Banco de Dados**: MySQL, PostgreSQL, FireBase  
 - ⚙️ **Ferramentas**: Git, GitHub, Docker, Angular, SpringBoot  
 - 📌 **Áreas de Interesse**: Desenvolvimento Web, Inteligência Artificial, Modelagem de Processos  
@@ -19,7 +19,8 @@
 
 - 🌍 Desenvolvimento Backend com .NET  
 - 🔢 Estruturas de Dados e Algoritmos 
-- 🤖 Machine Learning básico  
+- 🤖 Machine Learning básico
+- 💻 IA
 
 ---
 

@@ -1,6 +1,6 @@
 ### 👋 Olá, meu nome é Arthur Antunes!
 
-📚 **Estudante de Sistemas de Informação** - PUC Minas (5º período)  
+📚 **Estudante de Sistemas de Informação** - PUC Minas (7º período)  
 💻 **Entusiasta de tecnologia, desenvolvimento de software e soluções inovadoras**  
 🚀 **Buscando oportunidades para crescer e colaborar em projetos**  
 
